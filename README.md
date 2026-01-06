@@ -1,4 +1,4 @@
-### About Neofetch (Alexia's Fork)
+### About Neofetch
 
 Neofetch is a commandline system information tool originally written in bash. 
 
